@@ -1,3 +1,10 @@
+%% Readme:
+% To run this code on your own computer, you need to import the file
+% "augset9fitted". The file is attached on github:
+% https://github.com/wiggleif/MAS500, but you
+% may have to change the filepath in line 22
+
+
 %% Setup the Import Options
 opts = delimitedTextImportOptions("NumVariables", 8);
 

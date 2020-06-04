@@ -1,4 +1,6 @@
-# following https://nbviewer.jupyter.org/github/aleju/imgaug-doc/tree/master/notebooks/
+# This script imports a .csv file containing filepath to images. The images are read, augmented and writing new augmented images as a dat file. 
+
+
 import random
 import imageio
 import imgaug as ia
