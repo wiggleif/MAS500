@@ -1,3 +1,5 @@
+# This script obtains all filenames inside the path: data/augall/  and writes a new file with all those filnames. The generated file is used to localize the path of every image during a training-session in darknet
+
 import os
 
 image_files = []
